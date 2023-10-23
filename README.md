@@ -1,6 +1,7 @@
 # basketball_counter
 
 A new Flutter project.
+a Simple Application Calculating The Score Of Two Teams 
 
 ## Getting Started
 
